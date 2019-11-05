@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfacesAndAbstraction/InterfacesAndAbstraction.iml" filepath="$PROJECT_DIR$/InterfacesAndAbstraction/InterfacesAndAbstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaOOP.iml" filepath="$PROJECT_DIR$/JavaOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaOOPExam-14April2019/JavaOOPExam-14April2019.iml" filepath="$PROJECT_DIR$/JavaOOPExam-14April2019/JavaOOPExam-14April2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workshop/Workshop.iml" filepath="$PROJECT_DIR$/Workshop/Workshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoExam/demoExam.iml" filepath="$PROJECT_DIR$/demoExam/demoExam.iml" />
+    </modules>
+  </component>
+</project>
